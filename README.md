@@ -1,11 +1,14 @@
-# Análisis de Rendimiento: Los Angeles Lakers (2023-24) 🏀
+# Análisis de Rendimiento: Los Angeles Lakers (2014-2024) 🏀
 
-Este proyecto es la Primera Entrega para el curso de Data Science II, Comisión 86415. 
-Contiene un análisis exploratorio de datos (EDA) sobre el rendimiento de Los Angeles Lakers durante la temporada regular 23/24, utilizando la API oficial de la NBA.
+Este proyecto es la Primera Entrega (corregida) para el curso de Data Science. 
+Contiene un análisis exploratorio de datos (EDA) completo sobre el rendimiento de Los Angeles Lakers durante las últimas 10 temporadas regulares, utilizando la API oficial de la NBA.
+
+## Mejoras de esta versión:
+Se amplió el volumen de datos a casi 800 registros para permitir un mejor entrenamiento futuro de modelos de Machine Learning. Se incluyó diccionario de datos, análisis univariado de la variable objetivo, limpieza de nulos/duplicados y análisis de correlación y outliers.
 
 ## Archivos del repositorio:
-* **`DataScienceII.ipynb`**: Notebook con el código en Python (extracción de la API, limpieza y visualizaciones).
-* **`lakers_23_24_crudo.csv`**: Dataset con el historial de los 82 partidos de la temporada.
+* **`DataScienceII.ipynb`**: Notebook principal con el código en Python (extracción de la API, limpieza, visualizaciones y conclusiones de negocio).
+* **`lakers_10_temporadas.csv`**: Dataset crudo con el historial de los partidos de la última década.
 
 ## Herramientas utilizadas:
 Python, pandas, matplotlib, seaborn, nba_api.
