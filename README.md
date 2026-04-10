@@ -1,4 +1,4 @@
-# Análisis de Rendimiento: Los Angeles Lakers (2014-2024) 🏀
+# Análisis de Rendimiento: Los Angeles Lakers (2014 - 2026) 🏀
 
 Este proyecto es la Primera Entrega (corregida) para el curso de Data Science. 
 Contiene un análisis exploratorio de datos (EDA) completo sobre el rendimiento de Los Angeles Lakers durante las últimas 10 temporadas regulares, utilizando la API oficial de la NBA.
